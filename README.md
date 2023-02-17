@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-In this program, I will be taking a password as a combination of alphanumeric characters, and checking whether the password is valid or not.
+In this program, I will be taking a password as a combination of alphanumeric characters, and checking whether the password is valid or not while using an online API.
 
 
 <h2>Languages and Utilities Used</h2>
